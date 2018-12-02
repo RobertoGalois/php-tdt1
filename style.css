@@ -1,0 +1,44 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 100%;
+	line-height; 100%;
+}
+
+div#mainContent
+{
+	margin-top: 10vh;
+}
+
+.content
+{
+	padding: 20px;
+	background-color: lightblue;
+	border: black 1px solid;
+	width: 350px;
+	margin: auto;
+}
+
+form#connexion
+{
+}
+
+form#connexion label
+{
+	display: inline-block;
+	width: 100px;
+}
+
+form#connexion input[type=submit]
+{
+	margin-top: 15px;
+}
+
+div#feedbackScreen
+{
+	height: 500px;
+	overflow: auto;
+	font-style: italic;
+}
